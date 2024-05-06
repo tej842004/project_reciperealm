@@ -1,0 +1,7 @@
+.layout {
+  min-height: 100%;
+}
+
+.layout.dark {
+  background: #333;
+}
